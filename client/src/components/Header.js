@@ -20,7 +20,7 @@ const Header = ({ title, onAdd, showAdd }) => {
 };
 
 Header.defaultProps = {
-  title: "BIA 2024 PIPELINE 'Levando voce para outro nivel'...",
+  title: "BIA 2024 PIPELINE Coloca voce para em outro nivel...",
 };
 
 export default Header;
